@@ -1,7 +1,7 @@
 # workingVPS
 - chainIDE
-  . 24/7
-  . no time limitation
+  - 24/7
+  - no time limitation
 - Deepnote
-  . 24/7
-  . 14 days access
+  - 24/7
+  - 14 days access
